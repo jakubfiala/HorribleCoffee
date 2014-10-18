@@ -1,1 +1,2 @@
-# Jakub's manifesto on why coffee is horrible
+# COFFEE IS HORRIBLE.
+##for real.

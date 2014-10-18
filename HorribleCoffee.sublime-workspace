@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"flas",
+				"flasherOn"
+			],
+			[
+				"web",
+				"webkitAudioContext"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
 				"con",
 				"console"
 			],
@@ -502,37 +514,34 @@
 			[
 				"upper",
 				"upperPage"
-			],
-			[
-				"upp",
-				"upperPage"
-			],
-			[
-				"scro",
-				"scrollCanvas"
-			],
-			[
-				"hide",
-				"hideGhostPage"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/Users/jakub/Desktop/horrible_coffee/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 264,
+				"buffer_size": 430,
 				"line_ending": "Unix",
 				"name": "<!DOCTYPE HTML>"
 			}
 		},
 		{
-			"file": "/Users/jakub/Desktop/horrible_coffee/styles.css",
+			"file": "horrifier.js",
 			"settings":
 			{
-				"buffer_size": 30,
+				"buffer_size": 593,
+				"line_ending": "Unix",
+				"name": "//coffee is horrible"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 245,
 				"line_ending": "Unix",
 				"name": "body {"
 			}
@@ -621,6 +630,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/jakub/Desktop/HorribleCoffee"
+	],
 	"file_history":
 	[
 		"/Library/WebServer/Documents/meyda/audio/speech.wav.magspec.csv",
@@ -918,24 +931,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/jakub/Desktop/horrible_coffee/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 264,
+						"buffer_size": 430,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								169,
-								169
+								350,
+								350
 							]
 						],
 						"settings":
@@ -947,24 +960,53 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/jakub/Desktop/horrible_coffee/styles.css",
+					"file": "horrifier.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30,
+						"buffer_size": 593,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								27
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//coffee is horrible",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
 							]
 						],
 						"settings":
@@ -976,7 +1018,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1030,18 +1072,22 @@
 		[
 			[
 				"",
-				"meyda/audio/speech.wav.magspec.csv"
+				"index.html"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"~/Dropbox/KRWeb-final/KRWeb.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
