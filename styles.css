@@ -1,0 +1,40 @@
+body {
+	background: #4a2001;
+}
+
+
+footer {
+	color: #fff;
+	text-align: center;
+	font-size: 11px;
+	font-family: Monaco, Courier;
+	position: absolute;
+	opacity: 0.3;
+}
+
+a {
+	color: #fff;
+	font-style: normal;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+#cuppa {
+	width: 400px;
+	height: 400px;
+	display: none;
+	position: absolute;
+}
+
+
+#flasher {
+	width: 120%;
+	height: 120%;
+	background-color: white;
+	opacity: 1.0;
+	z-index: 2;
+	position: absolute;
+	top: -10px;
+	left: -10px;
+	display: none;
+}
