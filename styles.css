@@ -22,8 +22,16 @@ a {
 #cuppa {
 	width: 400px;
 	height: 400px;
-	display: none;
 	position: absolute;
+}
+
+#cuppaBox {
+	position: absolute;
+	display: none;
+}
+
+#hello {
+	position: relative;
 }
 
 

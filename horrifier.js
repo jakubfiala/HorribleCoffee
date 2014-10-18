@@ -5,7 +5,7 @@ var flasherOn = false;
 $(document).ready(function() {
 
 	//initialize cuppa
-	$("#cuppa").css({
+	$("#cuppaBox").css({
 		top: $(window).height()/2-$("#cuppa").height()/2,
 		left: $(window).width()/2-$("#cuppa").width()/2
 	}).delay(700).fadeIn(300);
@@ -34,6 +34,9 @@ $(document).ready(function() {
 	}
 
 	//$("body").keypress(flash);
+	setTimeout(function(){
+		$("#hello").hide();
+	}, 4700);
 	setTimeout(flash, 5000);
 
 })
