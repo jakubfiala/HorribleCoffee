@@ -22,10 +22,25 @@ a {
 #cuppa {
 	width: 400px;
 	height: 400px;
+<<<<<<< HEAD
 	display: none;
 	position: absolute;
 }
 
+=======
+	position: absolute;
+}
+
+#cuppaBox {
+	position: absolute;
+	display: none;
+}
+
+#hello {
+	position: relative;
+}
+
+>>>>>>> master
 
 #flasher {
 	width: 120%;
