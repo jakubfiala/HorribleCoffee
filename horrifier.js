@@ -5,6 +5,7 @@ var flasherOn = false;
 $(document).ready(function() {
 
 	//initialize cuppa
+
 	$("#cuppaBox").css({
 		top: $(window).height()/2-$("#cuppa").height()/2,
 		left: $(window).width()/2-$("#cuppa").width()/2
